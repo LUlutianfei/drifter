@@ -1,0 +1,19 @@
+{
+  "name": "drifter",
+  "version": "1.0.0",
+  "dependencies":{
+  	"express":"^3.4.4",
+  	"redis":"*",
+  	"mongoose":"*"
+  },
+  "devDependencies":{
+  	"request":"*"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
